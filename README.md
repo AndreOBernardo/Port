@@ -10,7 +10,7 @@ Initial projects
 
  
 
- I'm Web Developer Front-end and Back-end!
+ I'm Web Developer Front-end and Back-end(for now)!
 
  I’m from Brazil.
 
