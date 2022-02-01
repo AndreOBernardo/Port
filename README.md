@@ -6,7 +6,7 @@ Initial projects
 
  
 
-## I'm André!
+## I'm André! 😀
 
  
 
